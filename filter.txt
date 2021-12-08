@@ -1,0 +1,2 @@
+[Adblock Plus 3.1]
+ntv.com.tr##div[style="bottom:0px;left:0px;position:fixed;"]
