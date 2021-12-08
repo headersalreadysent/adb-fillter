@@ -1,2 +1,8 @@
 [Adblock Plus 3.1]
+! Version: 0.1
+! Title: Headersalreadysent
+! Last modified: 
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/headersalreadysent/adb-fillter
+!
 ntv.com.tr##div[style="bottom:0px;left:0px;position:fixed;"]
